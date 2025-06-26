@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 3. Run the notebook:
 ```bash
-jupyter notebook Complete_ML_Lifecycle_Job_Change_Prediction.ipynb
+jupyter notebook Job_Change_Prediction.ipynb
 ```
 
 ## Files
