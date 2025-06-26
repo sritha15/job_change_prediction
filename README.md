@@ -22,7 +22,7 @@ jupyter notebook Complete_ML_Lifecycle_Job_Change_Prediction.ipynb
 
 ## Files
 
-- `Complete_ML_Lifecycle_Job_Change_Prediction.ipynb` - Main analysis
+- `Job_Change_Prediction.ipynb` - Main analysis
 - `requirements.txt` - Python dependencies
 - `Datasets/` - Training and test data
 - `ML_Job_Change_Report.pdf` - Project report
